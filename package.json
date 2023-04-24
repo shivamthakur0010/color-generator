@@ -1,7 +1,7 @@
 {
   "name": "reminder",
   "version": "0.1.0",
-  "homepage": "https://shivamthakur0010.github.io/color-genertor",
+  "homepage": "https://shivamthakur0010.github.io/color-generator",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "CI= react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
